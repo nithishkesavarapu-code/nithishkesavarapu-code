@@ -33,8 +33,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nithishkesavarapu-code&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/nithishkesavarapu-code?style=for-the-badge&color=2563EB" />
-  <img src="https://img.shields.io/github/stars/nithishkesavarapu-code?affiliations=OWNER&style=for-the-badge&color=6D28D9" />
 </p>
 
 ---
@@ -343,16 +341,6 @@ Worked on a large-scale Network Monitoring System focused on reliability, perfor
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkesavarapu-code&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nithishkesavarapu-code/nithishkesavarapu-code/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
